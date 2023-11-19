@@ -17,3 +17,6 @@ favor_or_not.ipynb
 
 grade_distribution.ipynb
 本檔案在分析成績分布與選課的關係。
+
+top_5__class_taking_all_year.ipynb
+本檔案分析了全校大學部選修課的分數分布，與卷哥所修之大學部選修課分布之比較。
