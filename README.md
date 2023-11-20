@@ -33,6 +33,9 @@ favor_or_not.ipynb
 
 grade_distribution.ipynb
 本檔案在分析成績分布與選課的關係。
+其中我們展示出了該堂課期末平均成績的分佈區間
+![image](https://github.com/JackyYang27/data-science-and-big-data/assets/134624274/456e2913-8b01-45b6-a7b8-3dfb858a3f89)
+
 
 top_5__class_taking_all_year.ipynb
 本檔案分析了全校大學部選修課的分數分布，與卷哥所修之大學部選修課分布之比較。
